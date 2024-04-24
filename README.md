@@ -1,2 +1,2 @@
 # backend-ebac-github
-Módulo 05 - Github do Cudeso Backend Python
+Módulo 05 - Github do Curso de Backend Python
